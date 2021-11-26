@@ -56,5 +56,3 @@ The last step was clustering the data and visulization in Tableau.
 ## Conclusion
 The transformed data with the StandardScaler perfomed way better than the normalizes data.
 The best Regressor was the Random Forest Regressor with the only numerical dataset. But the R2 Score is still only 0,6829. So you can't fully predict the quality of a coffee.
-
-[** Presentation**](https://cloudstorage.tu-braunschweig.de/getlink/fiFMMUkDcxQR1WNsAox7cGBN/Presentation%20-%20Coffee%20Quality.pptx)
