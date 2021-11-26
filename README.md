@@ -11,6 +11,7 @@ I am a great coffee fan and asked myself wheter its is possible to predict the q
 In this project, I used the provided [** Coffee Quality**](https://www.kaggle.com/volpatto/coffee-quality-database-from-cqi) dataset from kaggle.
 
 **Data**: The data set consists of information on 1339 different coffees which the Coffee Quality Insitute tested and presented January 2018. Existing Colunmns are f.e.:
+
 **Quality Measures**
 - Aroma
 - Flavor
